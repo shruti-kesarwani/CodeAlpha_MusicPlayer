@@ -29,6 +29,6 @@ musicplayer/
 
 ## 🚀 Getting Started
 
-[View Live Project]
+[View Live Project](https://shruti-kesarwani.github.io/CodeAlpha_MusicPlayer/)
 
 ---
