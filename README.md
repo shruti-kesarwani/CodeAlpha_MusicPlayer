@@ -23,8 +23,12 @@ musicplayer/
 
 ## Technology used
 
-html
-css 
-javascript
+- html
+- css 
+- javascript
 
 ## 🚀 Getting Started
+
+[View Live Project]
+
+---
