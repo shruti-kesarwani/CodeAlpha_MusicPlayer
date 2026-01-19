@@ -13,6 +13,12 @@ Modern Music Player is a responsive web-based audio player built with HTML, CSS,
 
 ---
 
+musicplayer/
+├── songs/       # .mp3 files
+├── photos/      # album cover images
+├── index.html
+├── style.css
+└── script.js
 
 
 ## 🚀 Getting Started
